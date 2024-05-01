@@ -1,0 +1,6 @@
+ffmpeg-python=0.2.0
+pyaudio
+numpy
+opencv-python
+openai
+requests
